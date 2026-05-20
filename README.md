@@ -1,4 +1,4 @@
-# Analisis Performa Penjualan E-commerce 2024
+# Analisis Performa Penjualan E-commerce
 
 > Proyek analisis data untuk mengidentifikasi tren penjualan, perilaku pelanggan, dan peluang pertumbuhan pada platform e-commerce.
 
