@@ -1,10 +1,10 @@
-# 📊 Analisis Performa Penjualan E-commerce 2024
+# Analisis Performa Penjualan E-commerce 2024
 
 > Proyek analisis data untuk mengidentifikasi tren penjualan, perilaku pelanggan, dan peluang pertumbuhan pada platform e-commerce.
 
 ---
 
-## 🎯 Latar Belakang & Pernyataan Masalah
+## Latar Belakang & Pernyataan Masalah
 
 Perusahaan e-commerce menghadapi tantangan dalam memahami faktor-faktor yang mempengaruhi konversi dan retensi pelanggan. Proyek ini bertujuan menjawab pertanyaan bisnis berikut:
 
@@ -15,7 +15,7 @@ Perusahaan e-commerce menghadapi tantangan dalam memahami faktor-faktor yang mem
 
 ---
 
-## 📁 Struktur Proyek
+## Struktur Proyek
 
 ```
 ecommerce-sales-analysis/
@@ -40,7 +40,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 | Keterangan | Detail |
 |---|---|
@@ -58,7 +58,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🛠️ Tools & Teknologi
+## Tools & Teknologi
 
 | Tool | Kegunaan |
 |---|---|
@@ -68,7 +68,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🔍 Metodologi
+## Metodologi
 
 ### 1. Pembersihan Data (SQL)
 - Menghapus baris duplikat
@@ -95,7 +95,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 📈 Temuan Utama
+## Temuan Utama
 
 | # | Temuan | Dampak |
 |---|---|---|
@@ -106,7 +106,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 💡 Rekomendasi Bisnis
+## Rekomendasi Bisnis
 
 1. **Program loyalitas** — Buat tier reward untuk mengkonversi one-time buyer menjadi repeat buyer
 2. **Optimasi checkout** — Sederhanakan form & tambah opsi QRIS dan COD untuk mengurangi drop-off
@@ -115,13 +115,13 @@ ecommerce-sales-analysis/
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
-> *Lihat dashboard interaktif di [Tableau Public](#)* *(ganti dengan link Tableau Public kamu)*
+> *Lihat dashboard interaktif di [Tableau Public](https://public.tableau.com/views/EcommerceSalesAnalysis_17790812171360/DashboardPenjualanE-commerce?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. Clone repository ini
    ```bash
@@ -139,14 +139,11 @@ ecommerce-sales-analysis/
 
 ---
 
-## 👤 Tentang Saya
+## Tentang Saya
 
-**[Nama Kamu]** — Aspiring Data Analyst
+**Meisya Salsabila I.P.** 
 
-- 📧 email@email.com
-- 💼 [LinkedIn](#)
-- 🐙 [GitHub](#)
+- 📧 meisyasalsa7@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/username-kamu)
 
 ---
-
-*Proyek ini dibuat sebagai bagian dari portofolio data analyst. Dataset bersifat publik dan digunakan untuk tujuan pembelajaran.*
