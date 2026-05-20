@@ -144,6 +144,6 @@ ecommerce-sales-analysis/
 **Meisya Salsabila I.P.** 
 
 - 📧 meisyasalsa7@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/username-kamu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/meisyasalsabila/)
 
 ---
